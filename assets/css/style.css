@@ -1,0 +1,36 @@
+.header{
+    background-image: url("../imgs/header.jpg");
+    color: aliceblue;
+    text-align: center;
+    margin: 0%;
+    padding: 3em 0;
+    font-size: 2.5em;
+    text-shadow: 1px 1px 2px black;
+}
+
+.tabla{
+    margin: 30px 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 1.5em;
+}
+
+.fotos{
+    width: 400px;
+}
+
+.footer{
+    display: flex;
+    background-color: brown;
+    height: 70px;
+    color: aliceblue;
+    align-items: center;
+    justify-content: center;
+    font-size: 1.5em;
+}
+
+
+
